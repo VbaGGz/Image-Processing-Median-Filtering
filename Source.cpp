@@ -6,7 +6,6 @@
 #include <cstdlib>
 #include "medianFilter.h"
 
-using std::cout;
 using namespace std;
 
 int main(int argc, char *argv[])

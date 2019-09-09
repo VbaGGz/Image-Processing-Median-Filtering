@@ -1,6 +1,3 @@
-//Median filter program reads in all .ppm files in a directory and outputs it's median values
-//@author  Conor Hughes
-
 #include <iostream>
 #include <string>
 #include <vector>
